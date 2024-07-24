@@ -1,0 +1,16 @@
+D:\Code_Buoi3\TinhTongDeQui\TinhTongDeQui\bin\Debug\net5.0\TinhTongDeQui.exe
+D:\Code_Buoi3\TinhTongDeQui\TinhTongDeQui\bin\Debug\net5.0\TinhTongDeQui.deps.json
+D:\Code_Buoi3\TinhTongDeQui\TinhTongDeQui\bin\Debug\net5.0\TinhTongDeQui.runtimeconfig.json
+D:\Code_Buoi3\TinhTongDeQui\TinhTongDeQui\bin\Debug\net5.0\TinhTongDeQui.runtimeconfig.dev.json
+D:\Code_Buoi3\TinhTongDeQui\TinhTongDeQui\bin\Debug\net5.0\TinhTongDeQui.dll
+D:\Code_Buoi3\TinhTongDeQui\TinhTongDeQui\bin\Debug\net5.0\ref\TinhTongDeQui.dll
+D:\Code_Buoi3\TinhTongDeQui\TinhTongDeQui\bin\Debug\net5.0\TinhTongDeQui.pdb
+D:\Code_Buoi3\TinhTongDeQui\TinhTongDeQui\obj\Debug\net5.0\TinhTongDeQui.csproj.AssemblyReference.cache
+D:\Code_Buoi3\TinhTongDeQui\TinhTongDeQui\obj\Debug\net5.0\TinhTongDeQui.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_Buoi3\TinhTongDeQui\TinhTongDeQui\obj\Debug\net5.0\TinhTongDeQui.AssemblyInfoInputs.cache
+D:\Code_Buoi3\TinhTongDeQui\TinhTongDeQui\obj\Debug\net5.0\TinhTongDeQui.AssemblyInfo.cs
+D:\Code_Buoi3\TinhTongDeQui\TinhTongDeQui\obj\Debug\net5.0\TinhTongDeQui.csproj.CoreCompileInputs.cache
+D:\Code_Buoi3\TinhTongDeQui\TinhTongDeQui\obj\Debug\net5.0\TinhTongDeQui.dll
+D:\Code_Buoi3\TinhTongDeQui\TinhTongDeQui\obj\Debug\net5.0\ref\TinhTongDeQui.dll
+D:\Code_Buoi3\TinhTongDeQui\TinhTongDeQui\obj\Debug\net5.0\TinhTongDeQui.pdb
+D:\Code_Buoi3\TinhTongDeQui\TinhTongDeQui\obj\Debug\net5.0\TinhTongDeQui.genruntimeconfig.cache

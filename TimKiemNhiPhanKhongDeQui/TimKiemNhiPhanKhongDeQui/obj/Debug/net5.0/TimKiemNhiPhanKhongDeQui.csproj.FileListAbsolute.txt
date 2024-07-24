@@ -1,0 +1,16 @@
+D:\Code_Buoi3\TimKiemNhiPhanKhongDeQui\TimKiemNhiPhanKhongDeQui\bin\Debug\net5.0\TimKiemNhiPhanKhongDeQui.exe
+D:\Code_Buoi3\TimKiemNhiPhanKhongDeQui\TimKiemNhiPhanKhongDeQui\bin\Debug\net5.0\TimKiemNhiPhanKhongDeQui.deps.json
+D:\Code_Buoi3\TimKiemNhiPhanKhongDeQui\TimKiemNhiPhanKhongDeQui\bin\Debug\net5.0\TimKiemNhiPhanKhongDeQui.runtimeconfig.json
+D:\Code_Buoi3\TimKiemNhiPhanKhongDeQui\TimKiemNhiPhanKhongDeQui\bin\Debug\net5.0\TimKiemNhiPhanKhongDeQui.runtimeconfig.dev.json
+D:\Code_Buoi3\TimKiemNhiPhanKhongDeQui\TimKiemNhiPhanKhongDeQui\bin\Debug\net5.0\TimKiemNhiPhanKhongDeQui.dll
+D:\Code_Buoi3\TimKiemNhiPhanKhongDeQui\TimKiemNhiPhanKhongDeQui\bin\Debug\net5.0\ref\TimKiemNhiPhanKhongDeQui.dll
+D:\Code_Buoi3\TimKiemNhiPhanKhongDeQui\TimKiemNhiPhanKhongDeQui\bin\Debug\net5.0\TimKiemNhiPhanKhongDeQui.pdb
+D:\Code_Buoi3\TimKiemNhiPhanKhongDeQui\TimKiemNhiPhanKhongDeQui\obj\Debug\net5.0\TimKiemNhiPhanKhongDeQui.csproj.AssemblyReference.cache
+D:\Code_Buoi3\TimKiemNhiPhanKhongDeQui\TimKiemNhiPhanKhongDeQui\obj\Debug\net5.0\TimKiemNhiPhanKhongDeQui.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_Buoi3\TimKiemNhiPhanKhongDeQui\TimKiemNhiPhanKhongDeQui\obj\Debug\net5.0\TimKiemNhiPhanKhongDeQui.AssemblyInfoInputs.cache
+D:\Code_Buoi3\TimKiemNhiPhanKhongDeQui\TimKiemNhiPhanKhongDeQui\obj\Debug\net5.0\TimKiemNhiPhanKhongDeQui.AssemblyInfo.cs
+D:\Code_Buoi3\TimKiemNhiPhanKhongDeQui\TimKiemNhiPhanKhongDeQui\obj\Debug\net5.0\TimKiemNhiPhanKhongDeQui.csproj.CoreCompileInputs.cache
+D:\Code_Buoi3\TimKiemNhiPhanKhongDeQui\TimKiemNhiPhanKhongDeQui\obj\Debug\net5.0\TimKiemNhiPhanKhongDeQui.dll
+D:\Code_Buoi3\TimKiemNhiPhanKhongDeQui\TimKiemNhiPhanKhongDeQui\obj\Debug\net5.0\ref\TimKiemNhiPhanKhongDeQui.dll
+D:\Code_Buoi3\TimKiemNhiPhanKhongDeQui\TimKiemNhiPhanKhongDeQui\obj\Debug\net5.0\TimKiemNhiPhanKhongDeQui.pdb
+D:\Code_Buoi3\TimKiemNhiPhanKhongDeQui\TimKiemNhiPhanKhongDeQui\obj\Debug\net5.0\TimKiemNhiPhanKhongDeQui.genruntimeconfig.cache

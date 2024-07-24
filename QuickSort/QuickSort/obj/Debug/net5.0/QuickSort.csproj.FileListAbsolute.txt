@@ -1,0 +1,16 @@
+D:\Code_Buoi3\QuickSort\QuickSort\bin\Debug\net5.0\QuickSort.exe
+D:\Code_Buoi3\QuickSort\QuickSort\bin\Debug\net5.0\QuickSort.deps.json
+D:\Code_Buoi3\QuickSort\QuickSort\bin\Debug\net5.0\QuickSort.runtimeconfig.json
+D:\Code_Buoi3\QuickSort\QuickSort\bin\Debug\net5.0\QuickSort.runtimeconfig.dev.json
+D:\Code_Buoi3\QuickSort\QuickSort\bin\Debug\net5.0\QuickSort.dll
+D:\Code_Buoi3\QuickSort\QuickSort\bin\Debug\net5.0\ref\QuickSort.dll
+D:\Code_Buoi3\QuickSort\QuickSort\bin\Debug\net5.0\QuickSort.pdb
+D:\Code_Buoi3\QuickSort\QuickSort\obj\Debug\net5.0\QuickSort.csproj.AssemblyReference.cache
+D:\Code_Buoi3\QuickSort\QuickSort\obj\Debug\net5.0\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_Buoi3\QuickSort\QuickSort\obj\Debug\net5.0\QuickSort.AssemblyInfoInputs.cache
+D:\Code_Buoi3\QuickSort\QuickSort\obj\Debug\net5.0\QuickSort.AssemblyInfo.cs
+D:\Code_Buoi3\QuickSort\QuickSort\obj\Debug\net5.0\QuickSort.csproj.CoreCompileInputs.cache
+D:\Code_Buoi3\QuickSort\QuickSort\obj\Debug\net5.0\QuickSort.dll
+D:\Code_Buoi3\QuickSort\QuickSort\obj\Debug\net5.0\ref\QuickSort.dll
+D:\Code_Buoi3\QuickSort\QuickSort\obj\Debug\net5.0\QuickSort.pdb
+D:\Code_Buoi3\QuickSort\QuickSort\obj\Debug\net5.0\QuickSort.genruntimeconfig.cache

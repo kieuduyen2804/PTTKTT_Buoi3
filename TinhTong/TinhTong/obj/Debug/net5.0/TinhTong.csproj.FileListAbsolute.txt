@@ -1,0 +1,16 @@
+D:\Code_Buoi3\TinhTong\TinhTong\bin\Debug\net5.0\TinhTong.exe
+D:\Code_Buoi3\TinhTong\TinhTong\bin\Debug\net5.0\TinhTong.deps.json
+D:\Code_Buoi3\TinhTong\TinhTong\bin\Debug\net5.0\TinhTong.runtimeconfig.json
+D:\Code_Buoi3\TinhTong\TinhTong\bin\Debug\net5.0\TinhTong.runtimeconfig.dev.json
+D:\Code_Buoi3\TinhTong\TinhTong\bin\Debug\net5.0\TinhTong.dll
+D:\Code_Buoi3\TinhTong\TinhTong\bin\Debug\net5.0\ref\TinhTong.dll
+D:\Code_Buoi3\TinhTong\TinhTong\bin\Debug\net5.0\TinhTong.pdb
+D:\Code_Buoi3\TinhTong\TinhTong\obj\Debug\net5.0\TinhTong.csproj.AssemblyReference.cache
+D:\Code_Buoi3\TinhTong\TinhTong\obj\Debug\net5.0\TinhTong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_Buoi3\TinhTong\TinhTong\obj\Debug\net5.0\TinhTong.AssemblyInfoInputs.cache
+D:\Code_Buoi3\TinhTong\TinhTong\obj\Debug\net5.0\TinhTong.AssemblyInfo.cs
+D:\Code_Buoi3\TinhTong\TinhTong\obj\Debug\net5.0\TinhTong.csproj.CoreCompileInputs.cache
+D:\Code_Buoi3\TinhTong\TinhTong\obj\Debug\net5.0\TinhTong.dll
+D:\Code_Buoi3\TinhTong\TinhTong\obj\Debug\net5.0\ref\TinhTong.dll
+D:\Code_Buoi3\TinhTong\TinhTong\obj\Debug\net5.0\TinhTong.pdb
+D:\Code_Buoi3\TinhTong\TinhTong\obj\Debug\net5.0\TinhTong.genruntimeconfig.cache

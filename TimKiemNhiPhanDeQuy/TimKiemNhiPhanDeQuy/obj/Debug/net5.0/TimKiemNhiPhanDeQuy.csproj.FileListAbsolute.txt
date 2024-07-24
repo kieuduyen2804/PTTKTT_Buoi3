@@ -1,0 +1,16 @@
+D:\Code_Buoi3\TimKiemNhiPhanDeQuy\TimKiemNhiPhanDeQuy\bin\Debug\net5.0\TimKiemNhiPhanDeQuy.exe
+D:\Code_Buoi3\TimKiemNhiPhanDeQuy\TimKiemNhiPhanDeQuy\bin\Debug\net5.0\TimKiemNhiPhanDeQuy.deps.json
+D:\Code_Buoi3\TimKiemNhiPhanDeQuy\TimKiemNhiPhanDeQuy\bin\Debug\net5.0\TimKiemNhiPhanDeQuy.runtimeconfig.json
+D:\Code_Buoi3\TimKiemNhiPhanDeQuy\TimKiemNhiPhanDeQuy\bin\Debug\net5.0\TimKiemNhiPhanDeQuy.runtimeconfig.dev.json
+D:\Code_Buoi3\TimKiemNhiPhanDeQuy\TimKiemNhiPhanDeQuy\bin\Debug\net5.0\TimKiemNhiPhanDeQuy.dll
+D:\Code_Buoi3\TimKiemNhiPhanDeQuy\TimKiemNhiPhanDeQuy\bin\Debug\net5.0\ref\TimKiemNhiPhanDeQuy.dll
+D:\Code_Buoi3\TimKiemNhiPhanDeQuy\TimKiemNhiPhanDeQuy\bin\Debug\net5.0\TimKiemNhiPhanDeQuy.pdb
+D:\Code_Buoi3\TimKiemNhiPhanDeQuy\TimKiemNhiPhanDeQuy\obj\Debug\net5.0\TimKiemNhiPhanDeQuy.csproj.AssemblyReference.cache
+D:\Code_Buoi3\TimKiemNhiPhanDeQuy\TimKiemNhiPhanDeQuy\obj\Debug\net5.0\TimKiemNhiPhanDeQuy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_Buoi3\TimKiemNhiPhanDeQuy\TimKiemNhiPhanDeQuy\obj\Debug\net5.0\TimKiemNhiPhanDeQuy.AssemblyInfoInputs.cache
+D:\Code_Buoi3\TimKiemNhiPhanDeQuy\TimKiemNhiPhanDeQuy\obj\Debug\net5.0\TimKiemNhiPhanDeQuy.AssemblyInfo.cs
+D:\Code_Buoi3\TimKiemNhiPhanDeQuy\TimKiemNhiPhanDeQuy\obj\Debug\net5.0\TimKiemNhiPhanDeQuy.csproj.CoreCompileInputs.cache
+D:\Code_Buoi3\TimKiemNhiPhanDeQuy\TimKiemNhiPhanDeQuy\obj\Debug\net5.0\TimKiemNhiPhanDeQuy.dll
+D:\Code_Buoi3\TimKiemNhiPhanDeQuy\TimKiemNhiPhanDeQuy\obj\Debug\net5.0\ref\TimKiemNhiPhanDeQuy.dll
+D:\Code_Buoi3\TimKiemNhiPhanDeQuy\TimKiemNhiPhanDeQuy\obj\Debug\net5.0\TimKiemNhiPhanDeQuy.pdb
+D:\Code_Buoi3\TimKiemNhiPhanDeQuy\TimKiemNhiPhanDeQuy\obj\Debug\net5.0\TimKiemNhiPhanDeQuy.genruntimeconfig.cache
